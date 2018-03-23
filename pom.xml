@@ -42,7 +42,6 @@
 
   <modules>
     <module>md-stepper-addon</module>
-    <module>md-stepper-demo</module>
   </modules>
 
   <build>
